@@ -6,7 +6,7 @@ enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 
 # change publication directory
-publishDir = "public"
+publishDir = "docs"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
