@@ -1,6 +1,6 @@
-baseurl = "https://example.com/"  # End your URL with a `/` trailing slash.
-title = "Academic"
-copyright = "&copy; 2016 Your Name"
+baseurl = "https://irfreitas.github.io/"  # End your URL with a `/` trailing slash.
+title = "Isaac Freitas"
+copyright = "&copy; 2017 Isaac Freitas"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -12,7 +12,7 @@ publishDir = "public"
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-97398918-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -28,7 +28,7 @@ defaultContentLanguageInSubdir = false
   organization_url = ""
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "ifreitas@tulane.edu"
+  email = "isaac.freitas@gmail.com"
   address = "220 A1 Newcomb Hall, Tulane University, New Orleans, 70118"
   office_hours = "Monday & Wednesday 11:00 to 12:30 or email for appointment"
   phone = ""
@@ -129,7 +129,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:ifreitas@tulane.edu"
+    link = "mailto:isaac.freitas@gmail.com"
 
   [[params.social]]
     icon = "twitter"
@@ -166,11 +166,6 @@ defaultContentLanguageInSubdir = false
   name = "Posts"
   url = "#posts"
   weight = 3
-
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
 
 [[menu.main]]
   name = "Teaching"

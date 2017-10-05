@@ -3,18 +3,18 @@ abstract = "Civic engagement and protest mobilization have generally been treate
 authors = ["Patrick Rafail", "Isaac Freitas"]
 date = "2017-06-01"
 image_preview = ""
-math = true
-publication_types = ["1"]
+math = false
+publication_types = ["2"]
 publication = "Sociological Perspectives"
 publication_short = ""
 selected = true
 title = "Permeable Participation: Civic Engagement and Protest Mobilization in 20 OECD Countries, 1981–2008"
-url_code = "#"
-url_dataset = "#"
+url_code = ""
+url_dataset = ""
 url_pdf = ""
-url_project = "#"
-url_slides = "#"
-url_video = "#"
+url_project = ""
+url_slides = ""
+url_video = ""
 
 [[url_custom]]
 name = "Custom Link"
@@ -22,9 +22,8 @@ url = "https://doi.org/10.1177/0731121416668149"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles-wide.jpg"
+image = ""
 caption = "My caption :smile:"
 
 +++
 
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
